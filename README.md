@@ -8,3 +8,6 @@
 ## TODO: my own config:
 
 Repostitory for my own config here probably.
+
+In options set crosshair to:
+http://files.idle.ee/et/tweaks.html#examplecfg
